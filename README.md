@@ -99,7 +99,7 @@
 
 - **`skill-creator`** — 创建 → 评审 → 修订 循环中的上游 Skill
 - **`skill-vetter`** — 安全导向的评审（与质量导向的评审不同）
-- **Skill 炼金坊（规划中）** — 完整的重构流水线，使用 `skill-review` 作为其结构评审阶段。设计文档见 `references/skill-foundry-modification-plan.zh.md`。
+
 
 ---
 
