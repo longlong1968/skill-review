@@ -1,5 +1,7 @@
 # Skill Review
 
+English | [中文](README.zh.md)
+
 A Claude Code skill for evaluating, reviewing, auditing, and improving the quality of other Claude Code skills.
 
 ---

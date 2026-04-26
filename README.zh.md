@@ -1,5 +1,7 @@
 # Skill Review（Skill 评审）
 
+[English](README.md) | 中文
+
 用于评估、审查、审计和改进其他 Claude Code Skill 质量的 Claude Code Skill。
 
 ---
