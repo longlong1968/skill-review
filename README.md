@@ -61,7 +61,7 @@
 
 - **`SKILL.md`** — Skill 本体。包含 5 阶段评审流程、评分规则、报告模板、合理化表和红旗清单。
 - **`references/standards-checklist.md`** — 每条标准的权威参考。当你想精确理解某条标准的 PASS/PARTIAL/FAIL 含义时查阅此文件。
-- **`references/skill-foundry-modification-plan.zh.md`** *（仅本地，被 `.gitignore` 排除）* — 更高级别的 Skill 重构工作流（"Skill 炼金坊"）蓝图。`skill-review` 在该工作流中担任结构评审模块。由于尚不完善，此文件仅在本地保留。
+
 
 ---
 
