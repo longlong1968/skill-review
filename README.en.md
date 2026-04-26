@@ -99,7 +99,7 @@ This skill treats skill-writing as an engineering discipline, not an art form. A
 
 - **`skill-creator`** — The upstream skill in the create → review → revise cycle
 - **`skill-vetter`** — Security-focused review (distinct from quality-focused review)
-- **Skill Foundry** (planned) — A full refactoring pipeline that uses `skill-review` as its structural review phase. See `references/skill-foundry-modification-plan.zh.md` for the design.
+
 
 ---
 
