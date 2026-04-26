@@ -49,18 +49,19 @@ This skill provides a structured, evidence-based review framework for Claude Cod
 .
 ├── SKILL.md                          # Core skill definition (English)
 ├── SKILL.zh.md                       # Chinese translation
+├── README.md                         # This file
+├── README.zh.md                      # Chinese README
 ├── references/
 │   ├── standards-checklist.md        # Detailed criteria for all 12 standards
-│   ├── standards-checklist.zh.md     # Chinese translation
-│   └── skill-foundry-modification-plan.zh.md  # Blueprint for "Skill Foundry" workflow
-└── README.md                         # This file
+│   └── standards-checklist.zh.md     # Chinese translation
+└── .gitignore                        # Excludes local-only files
 ```
 
 ### Key Files
 
 - **`SKILL.md`** — The skill itself. Contains the 5-phase review process, scoring rubric, report template, rationalization table, and red flags.
 - **`references/standards-checklist.md`** — The definitive reference for each standard. Use this when you want to understand exactly what PASS/PARTIAL/FAIL means for a given criterion.
-- **`references/skill-foundry-modification-plan.zh.md`** — A higher-level proposal for a complete skill refactoring workflow ("Skill Foundry"). `skill-review` serves as the structural review module within that larger pipeline.
+- **`references/skill-foundry-modification-plan.zh.md`** *(local only, excluded by `.gitignore`)* — A higher-level proposal for a complete skill refactoring workflow ("Skill Foundry"). `skill-review` serves as the structural review module within that larger pipeline.
 
 ---
 
